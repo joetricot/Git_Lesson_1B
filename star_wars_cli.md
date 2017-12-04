@@ -37,7 +37,8 @@ If you need a refresher on the command line, check out the [CodeCademy course](h
 * Move back to your `star_wars` directory, and enter the `rebellion` directory.
 > paste your command here
 
-* Create a file called `princess_leia` and add the text "Help me, Obi-Wan...You're my only hope."
+* Create a file called `princess_leia`
+
 > paste your command here
 
 * Create a file called `obi_wan`.
