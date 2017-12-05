@@ -1,3 +1,5 @@
+https://www.codecademy.com/learn/learn-the-command-line
+
 # Command Line Interface!
 
 ### Learning Objectives
@@ -7,6 +9,12 @@
 3. GitHub Account Review
 4. Understand the GUI vs. Command Line
 5. React Introduction
+
+#### Extra Resources
+
+1. [Codeacademy React Course](https://www.codecademy.com/learn/react-101) (5 hours)
+2. [Codeacademy Command Line Course](https://www.codecademy.com/learn/learn-the-command-line) (~1 hour; focus on "Navigating the File System" and "Viewing and Changing the File System")
+3. [Here's](https://github.com/joetricot/Git_Lesson_1B/blob/master/star_wars_cli.md) some additional command line practice in this repo.
 
 ## Leaving the GUI behind
 

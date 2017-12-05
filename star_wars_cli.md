@@ -2,10 +2,6 @@
 
 Working in the command line is a key skill to develop as a programmer. It's a big break from what you're used to, and practice makes (eventually) perfect. Let's explore the Star Wars narrative using the command line!
 
-Please RECORD your commands underneath each bullet point in this markdown.
-
-If you need a refresher on the command line, check out the [CodeCademy course](https://www.codecademy.com/learn/learn-the-command-line). You should only do "Navigating the File System" and "Viewing and Changing the File System".
-
 ## "A New Hope"
 ### Act I
 
@@ -80,7 +76,3 @@ If you need a refresher on the command line, check out the [CodeCademy course](h
 > paste your command here
 
  :boom:
-
-#### Act IV
-
-Submit the HW following the directions in README.md :tada:
